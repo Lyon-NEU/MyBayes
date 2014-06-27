@@ -1,0 +1,1 @@
+   vesa local bus motherboard  ram  cache  floppy  hard drive  ide controller hd&   local bus svga video card  svga monitor dpus  minus tower key keyboard   david tsao     benjamin chen    

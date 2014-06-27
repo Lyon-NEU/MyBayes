@@ -1,0 +1,1 @@
+  ralph seguin wrote     check keysym key  modifier numlock mapping modifier  bit ugly perhap think currently  doe precedent keysym  differentiate capslock shiftlock lock  modifier   don know accepted strategy handling ambiguous  assignment numlock mapped  modifier suppose found good   doesn handle locking modifier   hope help   dave lapp   standard disclaimer   

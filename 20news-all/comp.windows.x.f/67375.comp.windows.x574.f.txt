@@ -1,0 +1,1 @@
+   finger accessing service  mail server telnet ftp   telnet   xhost atk itc cmu edu  telnet atk itc cmu edu  run demo   

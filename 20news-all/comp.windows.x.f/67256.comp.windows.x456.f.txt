@@ -1,0 +1,1 @@
+  solari machine rlogin  character line display column display  rest line wrapped line display   log condition persist check stty try reset  effect   telnet rlogin doesn occur   try unix console doesn occur   causing  avoided  terminal characteristic reset   please send reply    shonkwiler  georgium institute technology atlanta georgium   

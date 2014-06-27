@@ -1,0 +1,1 @@
+   int read joystick hideously slow  cpu time spent reading joystick  program doe printf joyread   problem lot program trap int smartdrv  slow hell interface read joystick port  reasonably safe fashion vium polling isn platform  clockspeed specific   thanks   brianzex    

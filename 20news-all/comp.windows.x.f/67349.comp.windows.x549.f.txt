@@ -1,0 +1,1 @@
+  alok mathur write  know set depth frame bit  tried following xlib code   completely wrong approach possible set depth   yes   colormap window created xview wrong   look depth try xview colormap segment  xlib colormap stuff probably easier  truecolor visual won  losing compared straight xlib      

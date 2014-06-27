@@ -1,0 +1,1 @@
+  sun acquired frame buffer card   supposed support bit color visual monochrome visual  default visual xnew server monochrome change  bit visual tried xgetvisualinfo visual depth  success xdpyinfo give information bit deep visual monochrome   possible solution  patch xsun server   instruct access bit color openwindow   lewi clark college  portland   

@@ -1,0 +1,1 @@
+  help trying program vga got working  pascal following routine mode  got vesa compatable trident meg  program mode don care color   code help write procedure  replace work   great thanks   code currently mode   procedure graphmode   begin videomode  asm  mov  mov  int  end  end videomode    begin  mem  end        

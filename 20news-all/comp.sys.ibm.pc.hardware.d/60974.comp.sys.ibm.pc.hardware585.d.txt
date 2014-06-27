@@ -1,0 +1,1 @@
+  scsus card system require separate device driver loaded  memory scsus device hooked true bit    thanks   randy    

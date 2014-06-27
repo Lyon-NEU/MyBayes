@@ -1,0 +1,1 @@
+  write   file couple image conversion program mention scf  file   rix file extension scus scf raw file  color palette  byte header name rix byte unknown stuff byte palette info color rgb  picture raw format  dont know viewer description vpic  able read file   regards  thoma   

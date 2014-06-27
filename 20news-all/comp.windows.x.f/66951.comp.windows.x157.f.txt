@@ -1,0 +1,1 @@
+  doug acker write   continuing build problem got stuck build xterm   |gcc fpcc struct return xterm main input charproc cursor util tab screen scrollbar button tekproc misc vtprstbl tekprstbl datum menu usr wgep lib${ld run path $ld run path} lib xaw   

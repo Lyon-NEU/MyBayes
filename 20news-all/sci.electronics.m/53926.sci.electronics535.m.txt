@@ -1,0 +1,1 @@
+  find uart interface following  baud datum bit stop bit parity  ability break detect irq output pin  irq character received   dalla mhz clone won  break detect looked   help appriciated   

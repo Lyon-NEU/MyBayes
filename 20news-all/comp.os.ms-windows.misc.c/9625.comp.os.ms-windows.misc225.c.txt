@@ -1,0 +1,1 @@
+  hus   tried compile ctrltest mfc sample directory  compiling mfc lib bwc   bwc isn able distinguish pointer overloaded  function  example imagine following overloaded function  void name void  void name int   trying think bwc impossible  adress function assign properly defined  function pointer  right problem     

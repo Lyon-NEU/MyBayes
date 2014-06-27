@@ -1,0 +1,1 @@
+  workstation pseudocolor color   default visual start different visual default     

@@ -1,0 +1,1 @@
+   able send pixmap client  send colormap foreground  background pixel value problem  problem   pixmap colormap  telling server receiving  client association       john cwiklum  programmer  wolfram research letter alphabet    

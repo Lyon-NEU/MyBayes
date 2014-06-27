@@ -1,0 +1,1 @@
+   article yong kim write   working program display wireframe model user  able arbitrarily change viewing parameter  wireframe object going dynamic attribute  move user exploring wireframe  world   don consider phig pex lib       

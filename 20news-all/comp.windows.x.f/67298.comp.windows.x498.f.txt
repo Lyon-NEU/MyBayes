@@ -1,0 +1,1 @@
+   set foreground xor foreground background  truecolor visual   

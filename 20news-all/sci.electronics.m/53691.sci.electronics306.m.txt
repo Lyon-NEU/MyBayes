@@ -1,0 +1,1 @@
+   designing circuit silicon diode dont  modify parameter problem accept following  statement   model diode   pspice book terrible appreciate help    neil gandler   gandler electronics  home automation electronic design technology    

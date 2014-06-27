@@ -1,0 +1,1 @@
+   write   widget defined glxmdraw motif  glxdraw athena widget similar xmdrawingarea  allow call render window look glxlink  glxunlink glxgetconfig glxwinset man page   hold widget   driscoll  pont pixel system   

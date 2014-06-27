@@ -1,0 +1,1 @@
+  lot problem keeping hardware interrupt window  regardless communication software   try following  turn disk write cache disk downloading  cache grab control machine  write disk loose character   different uart serial line uart  buffer character internally uart  buffer situation run  \windows\msd exe find uart machine   ron   

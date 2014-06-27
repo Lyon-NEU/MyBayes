@@ -1,0 +1,1 @@
+   hus   trying implement pointer feature xlib   multiple window input  show output simultaneously display   implement pointer feature   pointer come window  pointer menu able    give hint proceed  xlib     reply greatly appreciated   thank   prakash    

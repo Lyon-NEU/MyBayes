@@ -1,0 +1,1 @@
+  xtranslatecoord doesn work expecting right  perform xmovewindow know absolute window position  respect root window info xtranslatecoordinate  aren right doe know find  information   thanks please mail possible    steve      

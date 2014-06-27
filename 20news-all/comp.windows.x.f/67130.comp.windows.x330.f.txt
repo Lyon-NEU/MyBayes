@@ -1,0 +1,1 @@
+  article  ingolf markhof write     precmd echo ${host} $cwd   tcshrc special alias tvtwm   presume meant tcsh     michael salmon     pseudo   ericsson telecom  stockholm   

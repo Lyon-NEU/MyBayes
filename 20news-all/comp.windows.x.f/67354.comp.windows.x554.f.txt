@@ -1,0 +1,1 @@
+  writing application running motif  stuff application quit shut window  session doesn send sigterm signal  application trapping various signal thought  signal check top level window destroyed   destroynotify event move window  check window actually destroyed  field check combination event   reply mail please summarise   thanks help  ian       

@@ -1,0 +1,1 @@
+   following problem bugging  appreciate help   create window   child root event mask buttonpressmask|keypressmask  child propagate mask buttonpressmask|keypressmask    keypress event discarded buttonpress event fall  subwindow set   fyus xnew olvwm   fundamentally wrong      

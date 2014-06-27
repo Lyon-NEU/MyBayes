@@ -1,0 +1,1 @@
+  font family weight slant  instance widget initfontcontext getnextfont  freefontcontext size font  bunch stuff concerning font  found family weight slant assume  access source family weight slant  orginaly creating fontlist  thanks bunch great  carl    

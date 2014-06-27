@@ -1,0 +1,1 @@
+   hus   implement rpc server xwindow sun xview  notify enable rpc svc call automatically execute rpc process  detect incoming request wonder similar function  motif perform function   help appreciated   nuus chan    
