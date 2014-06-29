@@ -13,13 +13,15 @@ import java.util.Set;
 
 /**
  * A simple implement of Bayes
+ * P(A/B)=P(A)P(B/A)/P(B)
  * @author Lyon
  * @date 2014/06/25
  */
 public class Bayes {
 	private Set<String>stopword;
-	private List<String>categories;
-	private Map<String, Integer>wordCount=null;
+	private List<String>categories;   
+	private Map<String, Integer>cateWordMap=null;       //word number of every category
+	private Map<String, Integer>wordCount=null;     
 	public Bayes()
 	{
 		stopword=new HashSet<String>();
